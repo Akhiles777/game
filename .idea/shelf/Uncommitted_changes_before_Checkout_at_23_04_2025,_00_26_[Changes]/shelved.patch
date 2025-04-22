@@ -1,0 +1,105 @@
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"VcsDirectoryMappings\">\n    <mapping directory=\"$PROJECT_DIR$\" vcs=\"Git\" />\n    <mapping directory=\"$PROJECT_DIR$/projekts\" vcs=\"Git\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+--- a/.idea/vcs.xml	(revision 0a5ec4cbe8a87dd406f9e96dfbcf23b0201de18a)
++++ b/.idea/vcs.xml	(date 1745350884421)
+@@ -2,6 +2,5 @@
+ <project version="4">
+   <component name="VcsDirectoryMappings">
+     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+-    <mapping directory="$PROJECT_DIR$/projekts" vcs="Git" />
+   </component>
+ </project>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"261a7f12-c0f2-4ee8-b71f-361ef1176c7e\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/assets/arrow 1.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/cry 1.svg\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/feature1.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/feature2.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/feature3.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/feature4.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/feature5.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/feature6.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/game1.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/images1.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/images2.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/images3.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/images4.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/images5.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/images6.png\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/unity 1.svg\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/assets/unreal 1.svg\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"HTML File\" />\n        <option value=\"JavaScript File\" />\n        <option value=\"TypeScript File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 2\n}</component>\n  <component name=\"ProjectId\" id=\"2qgul5pttWFQaWcT95V4lI8VQja\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,\n    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,\n    &quot;Node.js.app.js.executor&quot;: &quot;Run&quot;,\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/Users/a1111/Documents/kwork-portfolio/assets&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/assets\" />\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.112\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"261a7f12-c0f2-4ee8-b71f-361ef1176c7e\" name=\"Changes\" comment=\"\" />\n      <created>1735096686576</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1735096686576</updated>\n      <workItem from=\"1735096687643\" duration=\"1336000\" />\n      <workItem from=\"1735341021185\" duration=\"142000\" />\n      <workItem from=\"1735342139720\" duration=\"769000\" />\n      <workItem from=\"1735352275489\" duration=\"2745000\" />\n      <workItem from=\"1735355149755\" duration=\"2134000\" />\n      <workItem from=\"1735358962174\" duration=\"4613000\" />\n      <workItem from=\"1735423622407\" duration=\"5831000\" />\n      <workItem from=\"1735483220096\" duration=\"913000\" />\n      <workItem from=\"1735491289731\" duration=\"3783000\" />\n      <workItem from=\"1735511200622\" duration=\"5661000\" />\n      <workItem from=\"1735528683898\" duration=\"561000\" />\n      <workItem from=\"1735579508185\" duration=\"3265000\" />\n      <workItem from=\"1735637895466\" duration=\"10555000\" />\n      <workItem from=\"1735684645174\" duration=\"5042000\" />\n      <workItem from=\"1735750029569\" duration=\"8137000\" />\n      <workItem from=\"1736083533465\" duration=\"1715000\" />\n      <workItem from=\"1736086459475\" duration=\"2996000\" />\n      <workItem from=\"1736090263817\" duration=\"10562000\" />\n      <workItem from=\"1738808412130\" duration=\"2563000\" />\n      <workItem from=\"1738813371161\" duration=\"4108000\" />\n      <workItem from=\"1738877674860\" duration=\"46000\" />\n      <workItem from=\"1739051575644\" duration=\"24000\" />\n      <workItem from=\"1739246685584\" duration=\"558000\" />\n      <workItem from=\"1739395709173\" duration=\"558000\" />\n      <workItem from=\"1739396318445\" duration=\"522000\" />\n      <workItem from=\"1739397690539\" duration=\"2696000\" />\n      <workItem from=\"1739415830144\" duration=\"1026000\" />\n      <workItem from=\"1739563740081\" duration=\"681000\" />\n      <workItem from=\"1739566655815\" duration=\"1226000\" />\n      <workItem from=\"1739702234557\" duration=\"319000\" />\n      <workItem from=\"1739716444149\" duration=\"12000\" />\n      <workItem from=\"1739799711373\" duration=\"194000\" />\n      <workItem from=\"1740463928560\" duration=\"10000\" />\n      <workItem from=\"1741249746458\" duration=\"2000\" />\n      <workItem from=\"1741724644771\" duration=\"63000\" />\n      <workItem from=\"1743249562084\" duration=\"1011000\" />\n      <workItem from=\"1743871527609\" duration=\"4810000\" />\n      <workItem from=\"1744492500442\" duration=\"266000\" />\n      <workItem from=\"1744903250818\" duration=\"5544000\" />\n      <workItem from=\"1744997210114\" duration=\"5591000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 0a5ec4cbe8a87dd406f9e96dfbcf23b0201de18a)
++++ b/.idea/workspace.xml	(date 1745357145632)
+@@ -5,23 +5,8 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="261a7f12-c0f2-4ee8-b71f-361ef1176c7e" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/assets/arrow 1.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/cry 1.svg" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/feature1.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/feature2.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/feature3.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/feature4.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/feature5.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/feature6.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/game1.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/images1.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/images2.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/images3.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/images4.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/images5.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/images6.png" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/unity 1.svg" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/assets/unreal 1.svg" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -48,24 +33,25 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+-    &quot;Node.js.app.js.executor&quot;: &quot;Run&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;/Users/a1111/Documents/kwork-portfolio/assets&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "DefaultHtmlFileTemplate": "HTML File",
++    "JavaScript Debug.index.html.executor": "Run",
++    "Node.js.app.js.executor": "Run",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "RunOnceActivity.git.unshallow": "true",
++    "git-widget-placeholder": "akhishka",
++    "last_opened_file_path": "/Users/a1111/Documents/kwork-portfolio/assets",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
++    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="$PROJECT_DIR$/assets" />
+@@ -130,6 +116,7 @@
+       <workItem from="1744492500442" duration="266000" />
+       <workItem from="1744903250818" duration="5544000" />
+       <workItem from="1744997210114" duration="5591000" />
++      <workItem from="1745350875056" duration="1645000" />
+     </task>
+     <servers />
+   </component>
