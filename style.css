@@ -26,7 +26,7 @@ img{
 .wrapper{
     background: #2A7B9B;
     background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgba(23, 8, 8, 1) 0%, rgba(59, 59, 12, 1) 100%);
-
+overflow-x: hidden;
     width: 100%;
 }
 
@@ -131,13 +131,13 @@ font-size: 20px;
      margin: 30px 0;
 }
 
-.hero--info .btn{
-    width: 195px;
-    height: 53px;
+.hero--info .btn, .hero-about .info .btn{
+
     background: #FA8305;
     color: #ffff;
-    font-size: 16.8px;
+    font-size: 17px;
     font-weight: 400;
+    padding: 15px 30px;
   transition: all 500ms ease;
     border: none;
     border-radius: 25px;
@@ -145,7 +145,7 @@ font-size: 20px;
 }
 
 
-.hero--info .btn:hover{
+.hero--info .btn:hover, .hero-about .info .btn:hover{
     cursor: pointer;
     transform: scale(1.1);
 }
@@ -412,6 +412,89 @@ position: relative;
 }
 
 
+.hero-about{
+    position: relative;
+}
+
+
+.hero-about .info {
+    width: 500px;
+    padding: 250px 0;
+}
+
+
+.hero-about .info h1{
+    margin-bottom: 15px;
+    font-size: 30px;
+
+}
+
+
+.hero-about .info .btn{
+margin-top: 20px;
+}
+
+.hero-about img{
+    position: absolute;
+    top: 0;
+    right: -250px;
+}
+
+
+.work {
+    padding: 80px 0;
+}
+
+
+.work h2{
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+
+.work .blocks{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.work .blocks .block{
+    width: 25%;
+    border-radius: 10px;
+    padding: 50px 35px;
+    background: #1C140F;
+}
+
+
+
+
+.work .blocks .block h3{
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+
+
+.work .blocks .block .badge{
+border-radius: 7px;
+    padding: 10px 20px;
+}
+
+
+.work .blocks .block .badge.purple{
+    width: 20px;
+    background: #560f67;
+}
+
+
+.work .blocks .block .badge.brown{
+    background: #31190d
+}
+
+.work .blocks .block .badge.green{
+    background: #192a1d;
+}
+
 footer{
     background: black;
     padding: 50px 0;
@@ -449,5 +532,10 @@ footer hr{
     border: none;
     height: 0.6px;
 }
+.href{
+    cursor: pointer;
+}
+
+
 
 
