@@ -5,6 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="261a7f12-c0f2-4ee8-b71f-361ef1176c7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akhi.html" beforeDir="false" afterPath="$PROJECT_DIR$/akhi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akhi.js" beforeDir="false" afterPath="$PROJECT_DIR$/akhi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,9 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="TypeScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -56,7 +64,7 @@
     &quot;Node.js.app.js.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;old-version&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/a1111/Documents/kwork-portfolio/assets&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -74,6 +82,9 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/contacts" />
+      <recent name="$PROJECT_DIR$/index" />
+      <recent name="$PROJECT_DIR$/akhi" />
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
   </component>
@@ -134,7 +145,9 @@
       <workItem from="1744997210114" duration="5591000" />
       <workItem from="1745359258574" duration="833000" />
       <workItem from="1745430491066" duration="6056000" />
-      <workItem from="1745523148864" duration="3951000" />
+      <workItem from="1745523148864" duration="8255000" />
+      <workItem from="1745532927160" duration="189000" />
+      <workItem from="1745533124788" duration="375000" />
     </task>
     <servers />
   </component>
