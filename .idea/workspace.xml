@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="261a7f12-c0f2-4ee8-b71f-361ef1176c7e" name="Changes" comment="" />
+    <list default="true" id="261a7f12-c0f2-4ee8-b71f-361ef1176c7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/COO.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/information-banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/team-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/team-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/team-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/team-4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akhi.html" beforeDir="false" afterPath="$PROJECT_DIR$/akhi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +37,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Akhiles777&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Akhiles777/game.git&quot;,
+    &quot;accountId&quot;: &quot;3acd1394-75f1-44a9-949d-9152ef3e234e&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -119,11 +141,50 @@
       <workItem from="1744903250818" duration="5544000" />
       <workItem from="1744997210114" duration="5591000" />
       <workItem from="1745359258574" duration="833000" />
-      <workItem from="1745430491066" duration="5483000" />
+      <workItem from="1745430491066" duration="6056000" />
+      <workItem from="1745523148864" duration="3648000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
