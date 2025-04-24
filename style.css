@@ -649,6 +649,25 @@
 
 }
 
+@media (min-width: 1900px) {
+
+   .team{
+        display: flex;
+         justify-content: space-between;
+
+    }
+
+    .team h2{
+        text-align: center;
+        padding-right: 180px;
+    }
+
+    .team .block{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
 
 
 
