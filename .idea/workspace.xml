@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="261a7f12-c0f2-4ee8-b71f-361ef1176c7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/COO.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/information-banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/team-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/team-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/team-3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/team-4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/akhi.html" beforeDir="false" afterPath="$PROJECT_DIR$/akhi.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +134,7 @@
       <workItem from="1744997210114" duration="5591000" />
       <workItem from="1745359258574" duration="833000" />
       <workItem from="1745430491066" duration="6056000" />
-      <workItem from="1745523148864" duration="3648000" />
+      <workItem from="1745523148864" duration="3951000" />
     </task>
     <servers />
   </component>
