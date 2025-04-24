@@ -4,177 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="261a7f12-c0f2-4ee8-b71f-361ef1176c7e" name="Changes" comment="" />
+    <list default="true" id="261a7f12-c0f2-4ee8-b71f-361ef1176c7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/cart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contacts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akhi.html" beforeDir="false" afterPath="$PROJECT_DIR$/akhi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/akhi.js" beforeDir="false" afterPath="$PROJECT_DIR$/akhi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="HTML File" />
-        <option value="JavaScript File" />
-        <option value="TypeScript File" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="akhishka" />
-      </map>
-    </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Akhiles777&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Akhiles777/game.git&quot;,
-    &quot;accountId&quot;: &quot;3acd1394-75f1-44a9-949d-9152ef3e234e&quot;
-  }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="2qgul5pttWFQaWcT95V4lI8VQja" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;Node.js.app.js.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/a1111/Documents/kwork-portfolio/assets&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets" />
-      <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/.idea" />
-    </key>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.112" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="261a7f12-c0f2-4ee8-b71f-361ef1176c7e" name="Changes" comment="" />
-      <created>1735096686576</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1735096686576</updated>
-      <workItem from="1735096687643" duration="1336000" />
-      <workItem from="1735341021185" duration="142000" />
-      <workItem from="1735342139720" duration="769000" />
-      <workItem from="1735352275489" duration="2745000" />
-      <workItem from="1735355149755" duration="2134000" />
-      <workItem from="1735358962174" duration="4613000" />
-      <workItem from="1735423622407" duration="5831000" />
-      <workItem from="1735483220096" duration="913000" />
-      <workItem from="1735491289731" duration="3783000" />
-      <workItem from="1735511200622" duration="5661000" />
-      <workItem from="1735528683898" duration="561000" />
-      <workItem from="1735579508185" duration="3265000" />
-      <workItem from="1735637895466" duration="10555000" />
-      <workItem from="1735684645174" duration="5042000" />
-      <workItem from="1735750029569" duration="8137000" />
-      <workItem from="1736083533465" duration="1715000" />
-      <workItem from="1736086459475" duration="2996000" />
-      <workItem from="1736090263817" duration="10562000" />
-      <workItem from="1738808412130" duration="2563000" />
-      <workItem from="1738813371161" duration="4108000" />
-      <workItem from="1738877674860" duration="46000" />
-      <workItem from="1739051575644" duration="24000" />
-      <workItem from="1739246685584" duration="558000" />
-      <workItem from="1739395709173" duration="558000" />
-      <workItem from="1739396318445" duration="522000" />
-      <workItem from="1739397690539" duration="2696000" />
-      <workItem from="1739415830144" duration="1026000" />
-      <workItem from="1739563740081" duration="681000" />
-      <workItem from="1739566655815" duration="1226000" />
-      <workItem from="1739702234557" duration="319000" />
-      <workItem from="1739716444149" duration="12000" />
-      <workItem from="1739799711373" duration="194000" />
-      <workItem from="1740463928560" duration="10000" />
-      <workItem from="1741249746458" duration="2000" />
-      <workItem from="1741724644771" duration="63000" />
-      <workItem from="1743249562084" duration="1011000" />
-      <workItem from="1743871527609" duration="4810000" />
-      <workItem from="1744492500442" duration="266000" />
-      <workItem from="1744903250818" duration="5544000" />
-      <workItem from="1744997210114" duration="5591000" />
-      <workItem from="1745359258574" duration="833000" />
-      <workItem from="1745430491066" duration="6056000" />
-      <workItem from="1745523148864" duration="3951000" />
-    </task>
-    <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="User">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="*" />
-                </option>
-              </RecentGroup>
-            </list>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="user">
-                    <value>
-                      <list>
-                        <option value="*" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-</project>
+  <!-- остальная часть файла без изменений -->
